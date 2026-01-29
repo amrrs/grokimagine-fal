@@ -3,6 +3,9 @@
 .env.local
 .env.*
 
+# Generated videos
+videos/
+
 # Python
 __pycache__/
 *.py[cod]
